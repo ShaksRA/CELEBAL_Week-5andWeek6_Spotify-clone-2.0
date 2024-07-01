@@ -1,5 +1,5 @@
 # Spotify Clone App Authenication Server
-This repository is the code to run an authorization/authentication server to connect to the Spotify API. The server is to be used in conjunction with the front-end code of the cloned app found https://github.com/ShaksRA/Spotify-clone-2.0/tree/main/client
+This repository is the code to run an authorization/authentication server to connect to the Spotify API. The server is to be used in conjunction with the front-end code of the cloned app found [repo](https://github.com/ShaksRA/Spotify-clone-2.0/tree/main/client).
 
 ## Motivation
 When working with the [Spotify API](https://developer.spotify.com/documentation/web-api/), you must follow this authorization [guide](https://developer.spotify.com/documentation/general/guides/authorization-guide/) provided on the API documentation. The basis of this authorization flow involve using a client id and client secret provided by signing up on the Spotify Developer dash board. These keys must be sent with every single request made to the Spotify server. 
